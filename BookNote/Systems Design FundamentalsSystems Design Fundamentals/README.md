@@ -1,0 +1,1 @@
+poetry run pytest -v --cov=../app --junitxml=pytest.xml --cov-report=term-missing:skip-covered --cov-report xml:coverage.xml

@@ -1,0 +1,46 @@
+# menu
+
+- 第一性原理思維 (First Principles Thinking)
+  - 真正的了解
+  - 防止思維陷阱
+  - 創新的基礎
+- 二階思維 (Second-Order Thinking)
+  - 避免短視
+  - 識別關鍵因素
+  - 評估機會與風險
+- 熵、不確定性與偏差 (Entropy, Uncertainty, and Bias)
+  - 熱力學第二定律
+  - 機會和風險的存在
+  - 偏見和失敗的原因
+- 學習曲線 (The Learning Curve)
+  - 價值的成本
+  - 學習和成長
+  - 實踐和經驗
+- 反脆弱性 (Antifragility)
+  - 不是強壯就是脆弱
+  - 增強能力
+  - 面對不確定性
+- 偏見心理學 (The Psychology of Misjudgment)
+  - 心理學中的偏見
+  - 變化的情境
+  - 偏見的形成
+- 知識映射 (Map of Knowledge)
+  - 地圖的目的
+  - 學科領域的概述
+  - 應用不同的思考模式
+- 與心理學的思考 (The Art of Thinking Clearly)
+  - 清晰思考的概念
+  - 避免思維陷阱
+  - 認識自己的限制
+- 進化論思考 (Evolutionary Thinking)
+  - 演化的原理
+  - 適應和存活
+  - 社會和文化的影響
+- 網狀思維 (Latticework of Mental Models)
+  - 學習心智模型的重要性
+  - 靈活應用心智模型
+  - 構建心智模型網格
+- 學習新事物的思維模式 (Model Thinking)
+  - 模型化的重要性
+  - 模型的形式
+  - 應用模型進行決策

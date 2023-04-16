@@ -34,3 +34,7 @@
 | 5   | 重塑組織     |             | 管理    |      | Builder DAO/定慧   |
 | 6   | 黑色優勢     |             |       |      | 鎮澤               |
 | 7   | 框架思維     |             |       |      | Me               |
+| 8   | 通往財富自由之路 |             |       |      | 承為               |
+| 9   | 搞定       |             |       |      | Joice            |
+
+財富自由之路：https://space.bilibili.com/350908632/search/video?keyword=%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF

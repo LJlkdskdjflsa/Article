@@ -1,0 +1,33 @@
+# specialized storage paradigms
+
+- BLOB: arbitrary piece of unstructured data
+  - popular
+    - GCS: Google Cloud Storage
+    - S3: Amazon S3
+  - 很難自己實現,大多時候都是用第三方服務
+  - 為儲存大量非序列化資料而設計
+- time series data:
+  - 對數據進行時間序列計算
+  - 使用場景
+    - monitoring
+    - 處理幣價
+  - popular
+    - InfluxDB
+    - prometheus
+- graphDB
+  - purpose
+    - 儲存和處理關係數據
+    - 例如: social network
+  - popular
+    - Neo4j
+    - ArangoDB 
+- sptial database
+  - quadtree
+    - 用於儲存和處理地理位置數據
+    - 例如: Google Maps
+  - purpose
+    - 儲存和處理地理位置數據
+    - 幾何空間
+  - popular
+    - PostGIS
+    - MongoDB
